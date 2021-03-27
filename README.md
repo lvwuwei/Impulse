@@ -57,6 +57,9 @@
   <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
 </p>
 
+### Usage ###
+python3 impulse.py --target xxx.xxx.xxx.xxx:80 --method HTTP --time 9999 --threads 200
+
 # :moneybag: Donate:
 **BTC:** `1GvEsEEdD8kfbSia6QR3Hk1G4fzy2mwZE4`  
 **ETH:** `0x4f62ce9632efF28f175aAAdd58B14A0AC053A952`  
